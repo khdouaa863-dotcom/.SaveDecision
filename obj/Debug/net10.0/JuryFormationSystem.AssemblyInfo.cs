@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JuryFormationSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a45d1bc251c3923bad94bbfaa158fe84e2a688")]
 [assembly: System.Reflection.AssemblyProductAttribute("JuryFormationSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JuryFormationSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
