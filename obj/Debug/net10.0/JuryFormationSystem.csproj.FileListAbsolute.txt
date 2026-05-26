@@ -1,0 +1,14 @@
+C:\Users\USER\JuryFormationSystem\bin\Debug\net10.0\JuryFormationSystem.exe
+C:\Users\USER\JuryFormationSystem\bin\Debug\net10.0\JuryFormationSystem.deps.json
+C:\Users\USER\JuryFormationSystem\bin\Debug\net10.0\JuryFormationSystem.runtimeconfig.json
+C:\Users\USER\JuryFormationSystem\bin\Debug\net10.0\JuryFormationSystem.dll
+C:\Users\USER\JuryFormationSystem\bin\Debug\net10.0\JuryFormationSystem.pdb
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.AssemblyInfoInputs.cache
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.AssemblyInfo.cs
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.dll
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\refint\JuryFormationSystem.dll
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.pdb
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\JuryFormationSystem.genruntimeconfig.cache
+C:\Users\USER\JuryFormationSystem\obj\Debug\net10.0\ref\JuryFormationSystem.dll
